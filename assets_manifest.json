@@ -1,0 +1,216 @@
+[
+  {
+    "id": "belt-drive-opener-installation",
+    "title": "Ultra-Quiet Belt Drive Garage Door Opener",
+    "category": "belt_openers",
+    "categoryLabel": "Belt Drive Openers",
+    "src": "/src/assets/images/real_belt_opener_1786939800599.jpg",
+    "aspectRatio": "16:9",
+    "recommendedPlacement": "Belt Drive Garage Door Openers Product & Installation Page",
+    "description": "Authentic photograph of a modern, ultra-quiet belt drive garage door opener with steel-reinforced rubber rail and LED lighting installed on a residential garage ceiling in Vancouver.",
+    "altText": "Ultra-quiet belt drive garage door opener with myQ and battery backup installed in Vancouver - Burrard Doors",
+    "idealFor": [
+      "Belt Drive Garage Door Openers Page",
+      "Quiet Opener Upgrades Section",
+      "Smart myQ & Battery Backup Showcase",
+      "Opener Replacement & Installation Pricing"
+    ],
+    "dimensions": "1920 × 1080 (16:9)",
+    "burrardRelevance": "Essential for homes with living space or master bedrooms directly above/adjacent to the garage, as well as Vancouver laneway homes requiring silent operation.",
+    "tags": [
+      "Belt Drive Opener",
+      "Ultra Quiet",
+      "LiftMaster",
+      "myQ Smart Control",
+      "Battery Backup"
+    ],
+    "specs": {
+      "doorType": "Overhead Ceiling-Mount Belt Operator",
+      "material": "Steel-Reinforced Polyurethane Belt & DC Motor",
+      "style": "Ultra-Quiet Smart Series",
+      "targetService": "Belt Drive Opener Installation & Replacement"
+    }
+  },
+  {
+    "id": "white-raised-panel-residential",
+    "title": "Clean White Raised-Panel Residential Garage Door",
+    "category": "wood_craftsman",
+    "categoryLabel": "Standard Residential",
+    "src": "/src/assets/images/real_white_garage_vancouver_1786727782811.jpg",
+    "aspectRatio": "16:9",
+    "recommendedPlacement": "Homepage Hero or Residential Installation Section",
+    "description": "Authentic photo of a clean, newly installed white steel sectional garage door on a residential home in Vancouver with green lawn and paved driveway under natural daylight.",
+    "altText": "Residential white steel raised-panel garage door installed in Vancouver - Burrard Doors",
+    "idealFor": [
+      "Homepage Main Banner",
+      "Residential Garage Doors Page",
+      "Before & After Gallery",
+      "Google Business Profile"
+    ],
+    "dimensions": "1920 × 1080 (16:9)",
+    "burrardRelevance": "Classic, highly popular residential style installed in suburban homes across Vancouver, Burnaby, Surrey, and Richmond.",
+    "tags": [
+      "White Steel",
+      "Raised Panel",
+      "Vancouver Driveway",
+      "Residential"
+    ],
+    "specs": {
+      "doorType": "Standard Sectional Door",
+      "material": "Galvanized Insulated Steel",
+      "style": "Traditional Raised Panel",
+      "targetService": "Residential Door Installation & Replacement"
+    }
+  },
+  {
+    "id": "technician-torsion-spring-repair",
+    "title": "Technician Servicing Overhead Torsion Spring System",
+    "category": "repair_service",
+    "categoryLabel": "Repair & Same-Day Service",
+    "src": "/src/assets/images/real_technician_repair_1786727799338.jpg",
+    "aspectRatio": "4:3",
+    "recommendedPlacement": "Garage Door Spring Repair & Same-Day Emergency Page",
+    "description": "Real-world photo of a professional technician adjusting and testing high-tension overhead torsion springs and steel cables inside a residential garage.",
+    "altText": "Technician repairing garage door torsion springs and cables in Vancouver - Burrard Doors",
+    "idealFor": [
+      "Spring & Cable Repair Page",
+      "Emergency Same-Day Service Card",
+      "Diagnostic & Maintenance Banner",
+      "Trust & Safety Section"
+    ],
+    "dimensions": "1440 × 1080 (4:3)",
+    "burrardRelevance": "Shows genuine repair work, spring replacement, and mechanical tuning — Burrard Doors’ primary emergency service.",
+    "tags": [
+      "Torsion Springs",
+      "Technician",
+      "Emergency Repair",
+      "Cable Adjustment"
+    ],
+    "specs": {
+      "doorType": "Overhead Torsion Assembly",
+      "material": "High-Cycle Oil-Tempered Steel Springs",
+      "style": "Professional Service",
+      "targetService": "Garage Door Spring Replacement"
+    }
+  },
+  {
+    "id": "modern-black-glass-door",
+    "title": "Modern Matte Black Garage Door with Glass Inserts",
+    "category": "modern_steel",
+    "categoryLabel": "Contemporary Modern",
+    "src": "/src/assets/images/real_modern_black_door_1786727812667.jpg",
+    "aspectRatio": "16:9",
+    "recommendedPlacement": "Modern / Contemporary Doors Showcase",
+    "description": "Realistic photo of a newly installed matte black contemporary garage door with clean frosted glass window inserts on a Vancouver home under soft natural coastal daylight.",
+    "altText": "Modern matte black garage door with frosted glass windows on a Vancouver residence - Burrard Doors",
+    "idealFor": [
+      "Modern & Contemporary Doors Page",
+      "Custom Upgrades & Installations",
+      "Renovation Portfolio"
+    ],
+    "dimensions": "1920 × 1080 (16:9)",
+    "burrardRelevance": "High-demand modern aesthetic for home renovations across Vancouver, North Shore, and Kitsilano.",
+    "tags": [
+      "Matte Black",
+      "Frosted Glass",
+      "Modern Architecture",
+      "Vancouver"
+    ],
+    "specs": {
+      "doorType": "Contemporary Sectional Door",
+      "material": "Insulated Steel with Glass Window Inserts",
+      "style": "Modern Architectural",
+      "targetService": "Custom Garage Door Installation"
+    }
+  },
+  {
+    "id": "vancouver-laneway-garage",
+    "title": "Vancouver Laneway House Insulated Garage Door",
+    "category": "modern_steel",
+    "categoryLabel": "Laneway & Urban",
+    "src": "/src/assets/images/real_laneway_garage_1786727830524.jpg",
+    "aspectRatio": "16:9",
+    "recommendedPlacement": "Laneway House & Tight Space Garage Services",
+    "description": "Real outdoor photo of a modern insulated grey roll-up garage door on a Vancouver laneway house in a quiet paved back alley with green cedar trees.",
+    "altText": "Vancouver laneway house garage door installation in residential back alley - Burrard Doors",
+    "idealFor": [
+      "Laneway Home Solutions",
+      "Low Headroom & Single Door Installations",
+      "Urban Vancouver Properties"
+    ],
+    "dimensions": "1920 × 1080 (16:9)",
+    "burrardRelevance": "Specifically relevant to Burrard Doors’ expertise with Vancouver lane garages, single-car spaces, and limited headroom tracks.",
+    "tags": [
+      "Laneway House",
+      "Paved Alley",
+      "Urban Vancouver",
+      "Insulated Door"
+    ],
+    "specs": {
+      "doorType": "Low-Headroom Sectional Door",
+      "material": "Heavy-Duty Insulated Steel",
+      "style": "Urban Laneway Minimalist",
+      "targetService": "Laneway & Single-Width Garage Installations"
+    }
+  },
+  {
+    "id": "residential-sliding-patio-door",
+    "title": "Residential Sliding Glass Patio Door",
+    "category": "patio_sliding",
+    "categoryLabel": "Sliding & Patio Doors",
+    "src": "/src/assets/images/real_patio_door_1786727843898.jpg",
+    "aspectRatio": "16:9",
+    "recommendedPlacement": "Sliding & Patio Door Repair Page",
+    "description": "Realistic view from inside a home looking out through clean sliding glass patio doors onto a green backyard patio and garden in Vancouver with natural daylight.",
+    "altText": "Sliding glass patio door with smooth roller track in Vancouver home - Burrard Doors",
+    "idealFor": [
+      "Sliding & Patio Door Repair Page",
+      "Roller & Track Replacement Section",
+      "Weather Sealing & Draft Proofing"
+    ],
+    "dimensions": "1920 × 1080 (16:9)",
+    "burrardRelevance": "Directly matches Burrard Doors’ specialized \"Sliding & Patio Door Repair\" service for stuck tracks, rollers, and broken seals.",
+    "tags": [
+      "Sliding Patio Door",
+      "Glass Doors",
+      "Track Repair",
+      "Backyard Patio"
+    ],
+    "specs": {
+      "doorType": "Residential Sliding Glass System",
+      "material": "Aluminum Frame with Double-Pane Glass",
+      "style": "Clean Everyday Residential",
+      "targetService": "Sliding Patio Door Roller & Track Repair"
+    }
+  },
+  {
+    "id": "cedar-wood-carriage-door",
+    "title": "Natural Cedar Wood Garage Door",
+    "category": "wood_craftsman",
+    "categoryLabel": "Custom Wood",
+    "src": "/src/assets/images/cedar_craftsman_garage_1786727305888.jpg",
+    "aspectRatio": "16:9",
+    "recommendedPlacement": "Custom Wood Doors & Heritage Homes Page",
+    "description": "Natural cedar wood double garage doors with warm timber grain and black hardware on a West Coast Craftsman home in Vancouver.",
+    "altText": "Natural cedar wood garage doors on a Vancouver Craftsman residence - Burrard Doors",
+    "idealFor": [
+      "Custom Wood Doors Section",
+      "Craftsman & Heritage Restorations",
+      "High-End Residential Portfolios"
+    ],
+    "dimensions": "1920 × 1080 (16:9)",
+    "burrardRelevance": "Traditional Pacific Northwest timber look for cedar and carriage house garage door requests.",
+    "tags": [
+      "Natural Cedar",
+      "Wood Doors",
+      "West Coast Timber",
+      "Craftsman"
+    ],
+    "specs": {
+      "doorType": "Carriage House Sectional",
+      "material": "Western Red Cedar",
+      "style": "West Coast Craftsman",
+      "targetService": "Custom Wood Door Installation"
+    }
+  }
+]
