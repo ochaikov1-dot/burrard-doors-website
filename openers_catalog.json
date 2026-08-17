@@ -1,0 +1,218 @@
+{
+  "models": [
+    {
+      "id": "liftmaster-8550w-elite",
+      "name": "LiftMaster 8550W Elite Series®",
+      "series": "Elite Series DC Belt Drive",
+      "brand": "LiftMaster",
+      "motorType": "DC Motor with Soft Start / Soft Stop",
+      "horsePower": "3/4 HP Equivalent",
+      "liftingPower": "800 Newtons",
+      "driveType": "Steel-Reinforced Polyurethane Belt",
+      "noiseRating": "Virtually Silent",
+      "warranty": {
+        "motor": "Lifetime",
+        "belt": "Lifetime",
+        "parts": "5 Years (1 Year Battery/Accessories)"
+      },
+      "keyFeatures": [
+        "Built-in Battery Backup operates door during power outages",
+        "Timer-to-Close automatically closes garage after custom set time (1, 5, or 10 min)",
+        "Motor Vibration Isolation System (MVIS®) for whisper-silent operation",
+        "Security+ 2.0® rolling code technology prevents radio frequency hacking",
+        "Protector System® safety reversing infrared beams"
+      ],
+      "smartFeatures": [
+        "Integrated Wi-Fi® and myQ® Mobile App control",
+        "Real-time door status alerts on iPhone / Android",
+        "Schedule automated closing times (e.g. 10:00 PM nightly)",
+        "Guest access key sharing for family, cleaners, and deliveries"
+      ],
+      "batteryBackup": true,
+      "lighting": "Dual 100W Equivalent Lighting System (Time-delayed)",
+      "idealFor": "Homes with bedrooms, nursery, or office directly above or beside the garage.",
+      "popularInVancouver": true
+    },
+    {
+      "id": "liftmaster-6690l-camera",
+      "name": "LiftMaster 6690L Smart Video Series",
+      "series": "Premium Smart Series with Live 360° Camera",
+      "brand": "LiftMaster",
+      "motorType": "Heavy-Duty 1 1/4 HP DC Motor",
+      "horsePower": "1 1/4 HP Maximum Power",
+      "liftingPower": "1000 Newtons (Heavy carriage/solid wood capable)",
+      "driveType": "Steel-Reinforced Polyurethane Belt",
+      "noiseRating": "Virtually Silent",
+      "warranty": {
+        "motor": "Lifetime",
+        "belt": "Lifetime",
+        "parts": "5 Years (1 Year Camera/Battery)"
+      },
+      "keyFeatures": [
+        "Built-in 360° adjustable 1080p HD security camera with 2-way live audio",
+        "Corner-to-Corner Lighting™ emitting 2,000 Lumens of daylight LED brightness",
+        "Heavy-duty DC motor easily lifts insulated cedar and double-wide steel doors",
+        "Integrated battery backup ensures seamless operation during storms",
+        "Ultra-smooth belt drive eliminates ceiling vibration"
+      ],
+      "smartFeatures": [
+        "Live video streaming and motion recording in myQ® app",
+        "2-Way Audio: Talk to delivery drivers or guests right from your phone",
+        "Amazon Key In-Garage Delivery compatibility",
+        "Real-time smartphone push notifications on movement or door activation"
+      ],
+      "batteryBackup": true,
+      "lighting": "Corner-to-Corner™ 2,000 Lumen 360° LED ring light",
+      "idealFor": "Homeowners wanting maximum lifting power, integrated security camera, and brightest garage illumination.",
+      "popularInVancouver": true
+    },
+    {
+      "id": "liftmaster-8355w-premium",
+      "name": "LiftMaster 8355W Premium Series",
+      "series": "Premium Quiet Belt Drive",
+      "brand": "LiftMaster",
+      "motorType": "Energy-Efficient 1/2 HP AC/DC Motor",
+      "horsePower": "1/2 HP Rating",
+      "liftingPower": "650 Newtons",
+      "driveType": "Steel-Reinforced Belt Drive",
+      "noiseRating": "Ultra-Quiet",
+      "warranty": {
+        "motor": "Lifetime",
+        "belt": "Lifetime",
+        "parts": "1 Year"
+      },
+      "keyFeatures": [
+        "Motor Vibration Isolation System (MVIS®) eliminates noise transfer into home",
+        "Energy-efficient standby mode consumes up to 75% less power",
+        "Security+ 2.0® rolling code with multi-frequency radio band",
+        "Electronic limits with automatic force monitoring"
+      ],
+      "smartFeatures": [
+        "Built-in Wi-Fi® connects directly to home router (no extra bridge required)",
+        "myQ® mobile app control from anywhere worldwide",
+        "Custom activity alerts and open/close history log"
+      ],
+      "batteryBackup": false,
+      "lighting": "Single 100W daylight bulb socket with motion activation",
+      "idealFor": "Standard residential single or double sectional doors where quiet reliability is key at great value.",
+      "popularInVancouver": true
+    },
+    {
+      "id": "gdd-800-whisper",
+      "name": "GDD800 Heavy-Duty Operator",
+      "series": "GDD Pro Contractor Series",
+      "brand": "GDD Professional",
+      "motorType": "DC Whisper-Drive Motor",
+      "horsePower": "3/4 HP Equivalent (800N)",
+      "liftingPower": "800 Newtons",
+      "driveType": "Heavy-Duty Reinforced Belt Rail",
+      "noiseRating": "Ultra-Quiet",
+      "warranty": {
+        "motor": "Lifetime",
+        "belt": "Lifetime",
+        "parts": "3 Years"
+      },
+      "keyFeatures": [
+        "Interchangeable heavy-duty steel rail system (belt or chain compatible)",
+        "Soft start & soft stop prevents jarring and reduces hinge fatigue",
+        "Optional battery backup module ready",
+        "High-durability internal steel gearing designed for Canadian winters",
+        "Obstacle detection safety eyes with infrared beam"
+      ],
+      "smartFeatures": [
+        "Smart wall station with optional wireless gateway integration",
+        "Rolling code high-security encrypted transmitters",
+        "Long-range remote transmitters (up to 300 ft line of sight)"
+      ],
+      "batteryBackup": true,
+      "lighting": "Dual LED high-output courtesy lighting",
+      "idealFor": "Rental suites, laneway houses, and suburban homes looking for durable, contractor-grade reliability.",
+      "popularInVancouver": true
+    },
+    {
+      "id": "marantec-synergy-370",
+      "name": "Marantec Synergy 370 / 380 Series",
+      "series": "German Engineered Precision Series",
+      "brand": "Marantec",
+      "motorType": "High-Speed DC Motor",
+      "horsePower": "3/4 to 1.1 HP Equivalent",
+      "liftingPower": "850 Newtons",
+      "driveType": "Ultra-Dense Kevlar-Reinforced Belt",
+      "noiseRating": "Virtually Silent",
+      "warranty": {
+        "motor": "Lifetime",
+        "belt": "Lifetime",
+        "parts": "5 Years"
+      },
+      "keyFeatures": [
+        "German engineered precision mechanics for near-zero sound emission",
+        "Ultra-fast opening speed up to 9.3 inches per second",
+        "Expandable multi-LED lighting strips (up to 1,100 Lumens)",
+        "Digital direct position monitoring for pinpoint open/close stops"
+      ],
+      "smartFeatures": [
+        "Integrated smartphone control receiver option",
+        "Multi-bit rolling code encryption",
+        "Energy saving standby draws less than 0.5 Watts"
+      ],
+      "batteryBackup": true,
+      "lighting": "Integrated Optical LED Lighting System",
+      "idealFor": "Custom architectural residences, luxury townhomes, and high-frequency garage use.",
+      "popularInVancouver": false
+    }
+  ],
+  "driveComparisons": [
+    {
+      "driveType": "Belt Drive Opener",
+      "noiseLevel": "Whisper Quiet (~50-55 dB)",
+      "vibration": "Zero metal vibration; dampened rubber/Kevlar belt",
+      "maintenance": "Virtually Zero (No lubricating oil required)",
+      "lifespan": "15 - 20+ Years",
+      "bestFor": "Attached garages, living space/bedrooms directly overhead, laneway suites",
+      "pricePoint": "$$$",
+      "recommended": true
+    },
+    {
+      "driveType": "Chain Drive Opener",
+      "noiseLevel": "Moderate to Loud (~70-80 dB)",
+      "vibration": "Noticeable metal-on-metal clatter and chain slap",
+      "maintenance": "Requires periodic lubricating and tension tightening",
+      "lifespan": "10 - 15 Years",
+      "bestFor": "Detached workshops, unattached garages where noise does not disturb anyone",
+      "pricePoint": "$$",
+      "recommended": false
+    },
+    {
+      "driveType": "Wall-Mount / Jackshaft",
+      "noiseLevel": "Ultra-Quiet (~52 dB)",
+      "vibration": "Zero ceiling vibration (mounts to wall beside door)",
+      "maintenance": "Low maintenance, direct-drive torsion connection",
+      "lifespan": "15 - 20 Years",
+      "bestFor": "Cathedral / high-lift ceilings, garages requiring overhead car lift storage",
+      "pricePoint": "$$$$",
+      "recommended": true
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Why Belt Drive is #1 for Metro Vancouver Homes",
+      "description": "Unlike traditional metal chains that rattle, clank, and vibrate through floor joists, belt drive openers utilize a steel-reinforced polyurethane or rubber belt that glides silently on the rail."
+    },
+    {
+      "title": "Suites & Bedrooms Directly Above Garages",
+      "description": "If you have a master bedroom, child’s nursery, home office, or secondary rental suite situated above or adjacent to the garage, a belt drive eliminates the loud shudder when cars enter or leave early in the morning."
+    },
+    {
+      "title": "DC Motor Soft-Start & Soft-Stop",
+      "description": "Smart DC motors ramp up smoothly and slow down gently right before touching the garage floor, prolonging the lifespan of your springs, cables, tracks, and door hinges."
+    },
+    {
+      "title": "Coastal Weather & Power Outage Battery Backup",
+      "description": "Vancouver winter windstorms can knock out municipal power. Integrated backup batteries ensure your garage door opens reliably so you never get trapped inside."
+    },
+    {
+      "title": "myQ® Mobile Connectivity & Auto-Close Timers",
+      "description": "Monitor and control your door from anywhere via smartphone. Set Timer-to-Close rules so your door automatically locks every night at 9:00 PM if accidentally left open."
+    }
+  ]
+}
